@@ -50,9 +50,6 @@
 ## 🌐 Connect with Me
 <div align="center">
 
-## 🌐 Connect with Me
-<div align="center">
-
 <a href="https://www.linkedin.com/in/ahmad-khattab-2b1ba021a/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
